@@ -1,0 +1,30 @@
+body {
+  background-color: gray;
+}
+
+h1, ul, form {
+  text-align: center;
+}
+
+form input {
+  height: 30px;
+  width: 200px;
+  margin-bottom: 15px;
+}
+
+ul {
+  list-style: none;
+  text-align: center;
+  width: 400px;
+  margin: 0 auto;
+}
+
+ul li {
+  padding-bottom: 15px;
+  background-color: #fff;
+  text-align: left;
+}
+
+span {
+  font-size: 25px;
+}
